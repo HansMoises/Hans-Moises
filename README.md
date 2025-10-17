@@ -68,7 +68,7 @@ Comunicación, trabajo en equipo, proactividad, facilidad para congeniar con per
 
 ## 📫 Contacto
 - Email: garygarciamoises@gmail.com  
-- LinkedIn: tu-linkedin
+- LinkedIn: 
 - GitHub: Hans Moises
 
 ---
