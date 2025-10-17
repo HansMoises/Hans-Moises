@@ -75,7 +75,7 @@ Comunicación, trabajo en equipo, proactividad, facilidad para congeniar con per
 
 ## 📈 Estadísticas (Opcional)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<tu-usuario>&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<tu-usuario>&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hansmoises&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansmoises&layout=compact)
 
-> Reemplaza `<tu-usuario>` por tu usuario real de GitHub.
+> Reemplaza `Hans Moises` por tu usuario real de GitHub.
